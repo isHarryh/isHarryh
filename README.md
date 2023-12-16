@@ -1,4 +1,5 @@
-# isHarryh
-## Introduction
-Hi, I am Harry Huang, a high school student from China, who joined GitHub recently.
-I am learning Python, PHP, JavaScript, Cpp and Java. You can contact me through email: harryhuang2652@qq.com
+Hi, I am Harry Huang, a student from China, who is struggling in high school study now.
+
+You're welcome to contact me via email: harryhuang2652@qq.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
