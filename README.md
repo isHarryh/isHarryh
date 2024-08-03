@@ -1,4 +1,4 @@
-Hi, I am Harry Huang, a student from China, who is struggling in high school study now.
+Hi, I am Harry Huang, a college student from China, who is studying in University of Science and Technology Beijing.
 
 You're welcome to contact me via email: harryhuang2652@qq.com
 
