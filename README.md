@@ -1,6 +1,16 @@
-Hi, I am Harry Huang, a college student from China, who is studying in University of Science and Technology Beijing.
+**Hi there 👋 I'm Harry Huang.**
 
-You're welcome to contact me via email: harryhuang2652@qq.com
+#### ℹ️ About Me
+
+- 🏫 A college student in University of Science and Technology Beijing (USTB).
+- 🌏 Native in Chinese.
+- 🌈 Love gaming, piano and coding.
+
+#### 🛰️ Contact Me
+
+- **Email:** `echo 'aGFycnlodWFuZzI2NTJAcXEuY29t' | base64 -d`
+
+#### 📊 GitHub Stats
 
 <div>
   <img alt="Top Langs" height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isharryh&layout=compact&theme=transparent&hide=tex">
