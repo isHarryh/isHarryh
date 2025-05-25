@@ -1,4 +1,4 @@
-**Hi there 👋 I'm Harry Huang.**
+**Hi there 👋 I'm Yuteng Huang. You can also call me Harry Huang, which is my nickname.**
 
 ### ℹ️ About Me
 
