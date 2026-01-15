@@ -8,8 +8,8 @@
 - 📧 Contact me via email `echo 'aGFycnlodWFuZzI2NTJAcXEuY29t' | base64 -d`
 
 <div>
-  <img alt="GitHub Stats" height="168" src="https://github-readme-stats.vercel.app/api?username=isharryh&show_icons=true&theme=transparent">
-  <img alt="Top Langs" height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isharryh&layout=compact&theme=transparent&hide=jupyter+notebook,tex">
+  <img alt="GitHub Stats" height="168" src="https://github-readme-stats-one-bice.vercel.app/api?username=isharryh&show_icons=true&theme=transparent">
+  <img alt="Top Langs" height="168" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=isharryh&layout=compact&theme=transparent&hide=jupyter+notebook,tex">
 </div>
 
 <br>
